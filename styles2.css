@@ -1,0 +1,41 @@
+img { 
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+  width: 50%;    
+  height:800px;     
+  position: relative; 
+ }
+ 
+ .jumbotron{
+    background-color: white !important
+}
+
+.row{
+	padding: 10px;
+}
+
+.nav-link{
+    font-family: 'Arapey', serif;
+    color: #de9ec2;
+}
+
+a{
+    font-family: 'Arapey', serif;
+	color: #de9ec2;
+}
+
+.col-md-4{
+	font-family: 'Alice', serif;
+}
+
+h1, h2{
+	font-family: 'Alegreya', serif;
+}
+
+p{
+	font-family: 'Alice', serif;
+}
+
+
+
